@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lIrVhjS1mzsT5LeDw6MUXns4n_o6GUBV/view?usp=sharing](https://drive.google.com/file/d/1lIrVhjS1mzsT5LeDw6MUXns4n_o6GUBV/view?usp=sharing)
 
-- ⚡ Fun fact **I speak 4 languages and learning 4 more XD**
+- ⚡ Current Intrests **Machine Learning & NLP **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
