@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samnk&label=Profile%20views&color=0e75b6&style=flat" alt="samnk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samnk" alt="samnk" /></a> </p>
-
 - 📫 How to reach me **smartsameeh@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lIrVhjS1mzsT5LeDw6MUXns4n_o6GUBV/view?usp=sharing](https://drive.google.com/file/d/1lIrVhjS1mzsT5LeDw6MUXns4n_o6GUBV/view?usp=sharing)
 
-- ⚡ Current Intrests **Machine Learning & NLP **
+- My Intrest : Machine Learning & NLP
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
