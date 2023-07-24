@@ -1,2 +1,2 @@
-<h4 align="center">Senior Computer Science & Engineering Student</h4>
-<h4 align="center">Marmara University - Istanbul</h4>
+<h4 align="center">Backend & Software Engineer</h4>
+<h4 align="center">Istanbul</h4>
